@@ -1,7 +1,7 @@
 # dns简单测速
 
 ```bazaar
-❯ python dns.py -q 10
+❯ python dns_ipv4.py -q 10
 ```
 输出
 ```
