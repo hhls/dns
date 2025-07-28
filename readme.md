@@ -1,7 +1,8 @@
 # dns简单测速
 
 ```bazaar
-❯ python dns_ipv4.py -q 10
+pip3 install httpx dnspython
+python3 dns_ipv4.py -q 10
 ```
 输出
 ```
